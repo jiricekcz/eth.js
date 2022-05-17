@@ -1,1 +1,1 @@
-# typescript-npm-module
+# ETH.js
